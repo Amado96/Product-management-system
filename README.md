@@ -1,4 +1,4 @@
-open index.html in browser or "Run" npm instal or npm start if you used SCSS tools
+
 I create products management system by five basic operations (Create,Read,Update,Delete,Search)
 I build this project with clean code and meaning full comments
 I use local storage for storing data at  local server
@@ -12,3 +12,4 @@ You can also upade one product by click update button
 you can delete one product by click delete button 
 we also make it easier to user if he want to to delete all products with one click
 you can also search for product by title and by category 
+if you want to run this project open index.html in browser or "Run" npm instal or npm start if you used SCSS tools
